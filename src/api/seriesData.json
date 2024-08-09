@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Lovely Runner",
+      "id": "lovely-runner",
+      "img_url": "https://imgs.search.brave.com/L1VgWfayMhhRWKlqw-MdY6SZKBsxqvlpr_8Chf4z1wg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tNS5o/ZW50YWllcmEuY29t/LzAxOC9vMDF3Z3hz/M2h1L2NvdmVyLmpw/Zw",
+      "rating": "9.8",
+      "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
+      "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+      "genre": ["Romantic Comedy", "Fantasy"],
+      "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+    },
+    {
+      "name": "Stranger Things",
+      "id": "stranger-things",
+      "img_url": "https://imgs.search.brave.com/ATe6u_7NEjLHbyyvBOc-T49VK2ysl_oeiIPoMCfre9E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vYmxhY2tj/b2NrY3VsdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MTAvU2lzc3ktVHJh/aW5pbmctSGVudGFp/LTEuanBnP3Jlc2l6/ZT03NjksNjUyJnNz/bD0x",
+      "rating": "8.7",
+      "description": "A group of young friends witness supernatural forces and secret government exploits.",
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "watch_url": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "name": "The Witcher",
+      "id": "the-witcher",
+      "img_url": "https://imgs.search.brave.com/JUPBQa3_n7UdQPcnGPPi5yIDWNCaqS2nWBTV3_fv5Eo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tNS5p/bWhlbnRhaS54eHgv/MDE2L2pxNWluZTRs/ZGcvY292ZXIuanBn",
+      "rating": "8.2",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Action", "Adventure", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "name": "Money Heist",
+      "id": "money-heist",
+      "img_url": "https://imgs.search.brave.com/_o4CsVZYlgcL0lKCAxm-PRTi1k6LXEDItPMsqDvH_es/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGVudGFpcnVsZXMu/bmV0L2dhbC9fMjAy/My9jdXRlLXRlYXNp/bmctc2V4eS1hbmQt/aGFyZGNvcmUtdW5j/ZW5zb3JlZC1oZW50/YWktcGljdHVyZXMt/cGFjay05OC5qcGc",
+      "rating": "8.3",
+      "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+      "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+      "genre": ["Action", "Crime", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80192098"
+    },
+    {
+      "name": "The Crown",
+      "id": "the-crown",
+      "img_url": "https://imgs.search.brave.com/UAg38pw8bP8mSdi3vYG1QfZoeyxi7DqUDzPxDy5S1Kw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tMS5p/bWhlbnRhaS54eHgv/MDAzL2E0bXBsaDh1/MngvY292ZXIuanBn",
+      "rating": "8.6",
+      "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+      "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
+      "genre": ["Biography", "Drama", "History"],
+      "watch_url": "https://www.netflix.com/title/80025678"
+    },
+    {
+      "name": "Squid Game",
+      "id": "squid-game",
+      "img_url": "https://imgs.search.brave.com/xEk5ntI1peXO6z8CSRTzcRpOuPRRFH-V6CRL-cFA9oc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/ZnJpZXJlbnMtcG90/aW9uLWlzLXdvcmtp/bmctdjAtYWd4bmdp/YWt0c2VkMS5qcGVn/P3dpZHRoPTY0MCZj/cm9wPXNtYXJ0JmF1/dG89d2VicCZzPTUx/NGZiM2U0ZDI4Yzgw/Mjc3YjVmMTBkOTk5/NTc1OTJjNzVhMjQx/ODk",
+      "rating": "8.1",
+      "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+      "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
+      "genre": ["Action", "Drama", "Mystery"],
+      "watch_url": "https://www.netflix.com/title/81040344"
+    },
+    {
+      "name": "Queen of Tears",
+      "id": "queen-of-tears",
+      "img_url": "https://imgs.search.brave.com/5dSp3ps2mQGAdDK05Ia0QW8o4cIqu-DIssEmI-XL2Ng/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9haC1p/bWcubHVzY2lvdXMu/bmV0L1NoYW1hbGFt/YWRpbmdkb25nMS81/MzY3NDQvNDM1MzJj/MmJmNjYyOWMyMzRm/ZTVfMDFKNEpRTU1S/WTQxUVpOWkFaU1g1/V0E5TjIuNjQweDAu/anBn",
+      "rating": "TBD",
+      "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
+      "cast": ["Kim Soo Hyun", "Kim Ji Won"],
+      "genre": ["Drama", "Romance"],
+      "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
+    }
+  ]
+  
